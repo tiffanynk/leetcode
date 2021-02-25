@@ -1,0 +1,26 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Leetcode problems and tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tiffanynk/leetcode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "challenges"
+  ],
+  "author": "tiffany-kanjanabout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffanynk/leetcode/issues"
+  },
+  "homepage": "https://github.com/tiffanynk/leetcode#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
